@@ -10,6 +10,8 @@ gradebook.db
 # Editor
 .vscode
 
+config.py
+
 
 # Jupyter Checkpoints
 
