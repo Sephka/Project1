@@ -1,1 +1,1 @@
-api_key = "add API key here"
+api_key = "AIzaSyCGs8hiuNAmsKeeuKplJUKHQAmzjtHMASY"
